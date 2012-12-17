@@ -1,0 +1,7 @@
+So Rake is great! ... but
+=========================
+
+* Passing parameters kind of sucks
+* It's a make replacement not a full scripting solution
+* ... and never wanted to be!
+

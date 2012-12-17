@@ -1,0 +1,9 @@
+We all like scripting right?
+============================
+
+What do you use? 
+* Rake?
+* Optparse?
+* Do everything by hand?
+* Perl? ;)
+

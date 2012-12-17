@@ -1,0 +1,9 @@
+Rake with params?
+=================
+
+desc "Something todo here"
+task :something, :passed do |t, args|
+  args[:passed].to_i.times { puts "params in rake" }
+end
+
+$ rake something[3]

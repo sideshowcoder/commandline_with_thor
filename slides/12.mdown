@@ -1,0 +1,13 @@
+Let's dive in: basic script
+===========================
+
+require "thor"
+
+class HelloThor < Thor
+
+  desc "hello", "Say hello thor"
+  def hello
+    puts "Hello thor"
+  end
+end
+

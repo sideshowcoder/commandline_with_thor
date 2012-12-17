@@ -1,0 +1,8 @@
+Parameters
+==========
+
+desc "more_hello", "Say hello thor"
+method_options :count => 1
+def hello_me(name = "thor")
+  options[:count].times { puts "Hello #{name}" }
+end

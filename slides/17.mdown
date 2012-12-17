@@ -1,0 +1,7 @@
+Recap
+=====
+
+* Rake for make like tasks -> Thor if you need more power
+* Thor takes the pain out of options and parameters
+* It's like a router + controller for the commandline
+

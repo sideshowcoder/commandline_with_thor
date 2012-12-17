@@ -1,0 +1,7 @@
+Bonus: How this presentation works
+=================================
+
+Interested? Let's take a look!
+
+Check it out on github https://github.com/sideshowcoder/cdeck
+

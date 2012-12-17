@@ -1,0 +1,6 @@
+What is that?
+=============
+
+* A "router" and "controller" for the commandline
+* Parameter parsing is there as well
+* A global "repository" for your favorite scripts 

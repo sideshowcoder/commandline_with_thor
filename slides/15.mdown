@@ -1,0 +1,9 @@
+HELP!!! ... has arrived
+=======================
+
+printing usage an keeping it uptodate is easy.
+
+  $ thor help
+  $ thor help hello
+  $ thor help hello:hello_me
+

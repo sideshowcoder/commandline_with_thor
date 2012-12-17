@@ -1,0 +1,13 @@
+Hammering the Commandline with thor
+===================================
+
+Author: Philipp Fehre
+[Munich Rubyshift](http://munich.rubyshift.org/)
+
+Those are the slides recently presented at my talk, to check them out as
+presented checkout [CommandDeck](https://github.com/sideshowcoder/cdeck)
+
+    $ thor cdeck:present ./slides
+
+
+

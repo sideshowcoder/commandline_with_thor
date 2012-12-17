@@ -1,0 +1,9 @@
+Sources
+=======
+
+* Jims Gravatar
+* http://rake.rubyforge.org/files/doc/rational_rdoc.html
+* http://yehudakatz.com/2008/05/12/by-thors-hammer/
+* http://railscasts.com/episodes/242-thor
+* http://picascii.com/
+* http://viget.com/extend/protip-passing-parameters-to-your-rake-tasks

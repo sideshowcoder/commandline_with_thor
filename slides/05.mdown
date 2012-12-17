@@ -1,0 +1,8 @@
+Rake
+====
+
+* I never intended to write this code at all 
+  (Jim Weirich, rational_rdoc)
+* ... but rake is awesome!
+* ... for the right tasks!
+
